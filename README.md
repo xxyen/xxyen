@@ -3,8 +3,9 @@
 **Intrduction**
 
 <!-- - I'm currently working. -->
-- I'm curretnly studing for a B.Eng. degree at [China Agricultural University](http://en.cau.edu.cn/), Beijing, China.  
-- Language mainly used : Python, C/C++.
+- I'm curretnly studing for a M.S. degree at [Duke University](https://duke.edu/), Durham, NC, United States.
+- I'm actively seeking 2024 summer software engineer internship.
+- Language mainly used : Python, C/C++, Java, HTML/CSS/JavaScript.
 <!--
 - I'm working in [EPIC-LAB](https://pku-epic.github.io/), [CFCS](https://cfcs.pku.edu.cn/english/), [Peking University](https://english.pku.edu.cn/) as a research assistant.
 - I once worked in Suzhou Zhito Tech. as a vision algorithm intern.
