@@ -3,7 +3,7 @@
 **Intrduction**
 
 <!-- - I'm currently working. -->
-- I'm curretnly studing for a M.S. degree at [Duke University](https://duke.edu/), Durham, NC, United States.
+- I'm curretnly studying for a M.S. degree at [Duke University](https://duke.edu/), Durham, NC, United States.
 - I'm actively seeking 2024 summer software engineer internship.
 - Language mainly used : Python, C/C++, Java, HTML/CSS/JavaScript.
 <!--
