@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/xxyen/xxyen/blob/main/header.png" />
+
 # Hi there 👋 I am Xinyi Xie
 
 ## Intrduction
