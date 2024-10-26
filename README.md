@@ -1,35 +1,24 @@
-### Hi there 👋 I am Xinyi Xie (谢馨仪)
+# Hi there 👋 I am Xinyi Xie
 
-**Intrduction**
+## Intrduction
 
-<!-- - I'm currently working. -->
-- I'm curretnly studying for a M.S. degree at [Duke University](https://duke.edu/), Durham, NC, United States.
-- I'm actively seeking 2024 summer software engineer internship.
-- Language mainly used : Python, C/C++, Java, HTML/CSS/JavaScript.
-<!--
-- I'm working in [EPIC-LAB](https://pku-epic.github.io/), [CFCS](https://cfcs.pku.edu.cn/english/), [Peking University](https://english.pku.edu.cn/) as a research assistant.
-- I once worked in Suzhou Zhito Tech. as a vision algorithm intern.
-- I'm currently working on 3d vision & robotics, especially on active 3d scene understanding. 
-- Reach me at my Wechat : mfp-0610.
--->
-<!-- - I'm currently learning HPC & distributed system. -->
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<!--
-- 👋 Hi, I’m @xxyen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!--
-**Detail**
+-  I’m currently pursuing my Master’s in Software Engineering at [Duke University](https://duke.edu/), graduating in May, 2025.
+- I'm actively seeking 2025 full time software engineer positions.
+- Language mainly used : Java, Python, C/C++, HTML/CSS/JavaScript.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxyen)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxyen)
--->
+## Detail
+
+<a href="https://github.com/xxyen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxyen&show_icons=true&theme=blueberry&hide=issues" />
+</a>
+<a href="https://github.com/xxyen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxyen&layout=compact&theme=blueberry" />
+</a>
+
 <!-- &hide=javascript,html -->
+
+## Where to find me
+<p><a href="https://github.com/xxyen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/xinyixie23" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
