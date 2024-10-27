@@ -1,4 +1,5 @@
-<img align="center" src="https://github.com/xxyen/xxyen/blob/main/header.png" />
+<!--<img align="center" src="https://github.com/xxyen/xxyen/blob/main/header.png" />-->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20%20I'm%20Xinyi&customColorList=2" />
 
 # Hi there 👋 I am Xinyi Xie
 
@@ -24,3 +25,5 @@
 <p><a href="https://github.com/xxyen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/xinyixie23" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+<img align = "center" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&customColorList=2"/>
