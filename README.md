@@ -12,10 +12,10 @@
 ## Detail
 
 <a href="https://github.com/xxyen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxyen&show_icons=true&theme=blueberry&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxyen&show_icons=true&theme=blueberry" />
 </a>
 <a href="https://github.com/xxyen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxyen&layout=compact&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxyen&layout=compact&theme=blueberry&langs_count=8" />
 </a>
 
 <!-- &hide=javascript,html -->
