@@ -24,6 +24,7 @@
 ## Where to find me
 <p><a href="https://github.com/xxyen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/xinyixie23" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+   <a href="https://devpost.com/xxyen" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a> 
 </p>
 
 <img align = "center" src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&customColorList=2"/>
